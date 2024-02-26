@@ -1,0 +1,25 @@
+ Communication: Technology facilitates instant communication globally, breaking down barriers and connecting people across the world. 
+Efficiency: Automation and digital tools enhance efficiency in various industries, reducing manual effort and improving productivity. 
+Education: Technology has transformed education, providing access to vast amounts of information and enabling online learning. 
+Healthcare Advancements: Medical technology has led to breakthroughs in diagnosis, treatment, and research, improving healthcare outcomes. 
+Innovation: Technology is a catalyst for innovation, driving progress in various fields such as science, engineering, and design. 
+Globalization: Technology has played a crucial role in the globalization of economies, fostering international trade and collaboration. 
+Economic Growth: The tech industry contributes significantly to economic growth through job creation, entrepreneurship, and the development of new markets. 
+Accessibility: Technology has made information, products, and services more accessible, leveling the playing field for people around the world.
+Environmental Monitoring:** Technology helps monitor and address environmental issues, contributing to sustainability efforts and conservation. 
+Entertainment: From streaming services to virtual reality, technology has transformed the entertainment industry, providing diverse and immersive experiences. 
+Security: Advances in technology have improved security measures, both online and offline, protecting individuals, businesses, and nations. 
+Data Analysis: Technology enables the collection and analysis of vast amounts of data, offering valuable insights for decision-making in various fields.
+Transportation: Technological advancements in transportation have led to faster, safer, and more efficient means of travel and logistics. 
+Social Connectivity: Social media and networking platforms have revolutionized the way people connect and share information, fostering a global community. 
+Space Exploration: Technology has played a pivotal role in space exploration, expanding our understanding of the universe and pushing the boundaries of human capabilities. 
+Agricultural Innovation: Technology has improved agricultural practices, leading to increased yields, sustainable farming methods, and food security. 
+Personal Empowerment: Technology empowers individuals by providing tools and resources for self-expression, creativity, and personal development. 
+bject-oriented: C++ is an object-oriented programming language. This means that the focus is on “objects” and manipulations around these objects. 
+Information about how these manipulations work is abstracted out from the consumer of the object. 
+Rich library support: Through C++ Standard Template Library (STL) many functions are available that help in quickly writing code. 
+For instance there are standard libraries for various containers like sets, maps, hash tables, etc. 
+Speed: C++ is the preferred choice when latency is a critical metric. 
+The compilation, as well as the execution time of a C++ program, is much faster than most other general purpose programming languages. 
+Compiled: A C++ code has to be first compiled into low-level code and then executed, unlike interpreted programming languages where no compilation is needed. 
+Pointer Support: C++ also supports pointers which are widely used in programming and are often not available in several programming languages. 
